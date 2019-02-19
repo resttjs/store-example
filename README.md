@@ -1,1 +1,3 @@
 Coming soon...
+
+In the meantime check out the [WorkersKV example](https://github.com/resttjs/workerskv-example)
